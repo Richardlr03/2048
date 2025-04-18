@@ -1,6 +1,6 @@
 # 2048 Game – Java + Gradle
-A tile-based puzzle game where you combine numbers to reach the coveted 2048 tile.
-Built with Java, structured with Gradle, and designed with clean architecture and OOP principles in mind.
+- A tile-based puzzle game where you combine numbers to reach the coveted 2048 tile. 
+- Built with Java, structured with Gradle, and designed with clean architecture and OOP principles in mind.
 
 # Game Features
 Smooth tile movement animations
